@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ChristopherMT/ChristopherMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Fundación Lomas Travel like an accountant in the finance industry.
